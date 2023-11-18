@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Product 1",
+    "subtitle": "High-quality Widget",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+
+    "price": 29.99,
+    "rating": 4.5,
+    "review": "Excellent product, exceeded my expectations!"
+  },
+  {
+    "name": "Product 2",
+    "subtitle": "Premium Gadget",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+
+    "price": 49.99,
+    "rating": 4.2,
+    "review": "Great value for the price, highly recommended."
+  },
+  {
+    "name": "Product 3",
+    "subtitle": "Smart Device",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+
+    "price": 79.99,
+    "rating": 4.8,
+    "review": "Sleek design, easy to use, worth every penny."
+  },
+  {
+    "name": "Product 4",
+    "subtitle": "Innovative Gizmo",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+
+    "price": 39.99,
+    "rating": 4.0,
+    "review": "Good product, but could use some improvements."
+  },
+  {
+    "name": "Product 5",
+    "subtitle": "Compact Contraption",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+
+    "price": 19.99,
+    "rating": 4.7,
+    "review": "Perfect for small spaces, great functionality."
+  },
+  {
+    "name": "Product 6",
+    "subtitle": "Advanced Appliance",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+
+    "price": 129.99,
+    "rating": 4.9,
+    "review": "Top-notch performance, exceeded my expectations."
+  },
+  {
+    "name": "Product 7",
+    "subtitle": "Tech Marvel",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+
+    "price": 99.99,
+    "rating": 4.6,
+    "review": "Impressive features, a must-have for tech enthusiasts."
+  },
+  {
+    "name": "Product 8",
+    "subtitle": "Elegant Accessory",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+
+    "price": 59.99,
+    "rating": 4.4,
+    "review": "Beautiful design, adds a touch of sophistication."
+  },
+  {
+    "name": "Product 9",
+    "subtitle": "Wireless Wonder",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+
+    "price": 69.99,
+    "rating": 4.3,
+    "review": "Convenient and reliable, no more tangled wires!"
+  },
+  {
+    "name": "Product 10",
+    "subtitle": "Futuristic Fixture",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+
+    "price": 149.99,
+    "rating": 4.7,
+    "review": "Cutting-edge technology, worth the investment."
+  }
+]
