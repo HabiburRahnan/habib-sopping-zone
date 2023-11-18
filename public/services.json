@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/0rmczqf/car-icone-2.png",
+    "title": "FREE SHIPPING",
+    "description": "Fast & Free Shipping Worldwide, Limited Time Only!"
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co/ckrtydJ/delivary-2.png",
+    "title": "FAST DELIVERY",
+    "description": "To Over 130 Countries Worldwide Within 20 Days"
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co/QXzCspW/images-3.png",
+    "title": "EASY RETURNS",
+    "description": "Convenient Easy Returns Services Within 14 Days"
+  },
+  {
+    "id": "4",
+    "image": "https://i.ibb.co/fS6QkGb/images-2.png",
+    "title": "SECURE PAYMENT",
+    "description": "SSL Encryption For Secure Transaction & Personal Data"
+  }
+]
