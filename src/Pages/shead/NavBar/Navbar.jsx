@@ -80,6 +80,9 @@ const NavBar = () => {
             <Link to="/resources">
               <Navbar.Link linkName="Resources" className="!py-0" />
             </Link>
+            <Link to="/dashboard">
+              <Navbar.Link linkName="Dashboard" className="!py-0" />
+            </Link>
           </Navbar.Container>
         </Navbar.Collapse>
       </Navbar.Container>

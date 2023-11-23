@@ -2,3 +2,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.dashboardItem ul > li:hover {
+  background-color: orange;
+  border-radius: 10px;
+}
